@@ -5,10 +5,9 @@ Hi, I'm Peter Jin, a passionate self-taught fullstack web and defi developer and
 
 - 🔭 I’m currently working on Cluster-Networks
 - 🌱 I’m currently learning blockchain technologies
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with buliding defi and web apps
 - 💬 Ask me about web and blockchain development
-- 📫 How to reach me: ...
+- 📫 How to reach me: evercreativedev@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
