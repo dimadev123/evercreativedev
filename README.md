@@ -1,5 +1,7 @@
 ### Hi there I'm Peter Jin 👋
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on Cluster-Networks
 - 🌱 I’m currently learning blockchain technologies
 - 👯 I’m looking to collaborate on 
@@ -8,9 +10,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
-
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 ### Languages and Tools:
 
