@@ -2,6 +2,7 @@
 
 Hi, I'm Peter Jin, a passionate self-taught fullstack web and defi developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
 - 🔭 I’m currently working on Cluster-Networks
 - 🌱 I’m currently learning blockchain technologies
@@ -11,8 +12,6 @@ Hi, I'm Peter Jin, a passionate self-taught fullstack web and defi developer and
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Languages and Tools:
 
