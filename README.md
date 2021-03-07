@@ -3,7 +3,7 @@
 Hi. I'm Peter Jin, a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, Vue.js, TensorFlow.js, Node, Deno), Blockchain(Bitcoin, Ethereum, Solidity, Rust), Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and mobile apps.
 
-I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
+Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
