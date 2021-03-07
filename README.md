@@ -45,6 +45,8 @@ Hi, I'm Peter Jin, a passionate self-taught fullstack web and defi developer and
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+
+#### Other
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
