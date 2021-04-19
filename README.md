@@ -9,7 +9,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 - 🔭 I’m currently working on Cluster-Networks
 - 🌱 I’m currently learning blockchain technologies
-- 🤔 I’m looking for help with buliding defi and web apps
+- 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain development
 - 📫 How to reach me: evercreativedev@gmail.com
 - 😄 Pronouns: He/His
