@@ -7,7 +7,6 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-- 🔭 I’m currently working on Cluster-Networks
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding defi and web apps
 - 💬 Ask me about web and blockchain development
